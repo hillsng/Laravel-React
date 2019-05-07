@@ -1,0 +1,18 @@
+.imgFrame {
+    height: 100px;
+    width: 200px;
+}
+
+.eventImageFrame {
+    height: 150px;
+    width: 100%;
+}
+
+.eventBigImageFrame {
+    height: 300px;
+    width: 600px;
+}
+
+button.btn.btn-save {
+    padding: 12px 40px;
+}
