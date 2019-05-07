@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Eventbux</title>
         <link href="{{asset('css/app.css')}}" rel="stylesheet" type="text/css">
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDaX27LuWvfnZHHL0EO3SE3wjZHW3EFpLA&libraries=geometry,places"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=&libraries=geometry,places"></script>
     </head>
     <body>
         <div id="eventbux"></div>
